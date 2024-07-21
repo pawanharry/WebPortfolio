@@ -1,12 +1,12 @@
 import React from 'react'
-import pic from '../../src/assets/pic.png'
+import pic from '../../src/assets/heroo.png'
 
 
 function Hero() {
   return (
     <>
-    <div className='mt-5 pt-5'>
-    <section class="pt-12 bg-gradient-to-b from-gray-50 via-white to-gray-50">
+    <div className='mt-5 pt-5 pb-8'>
+    <section class="pt-12 bt-10 pb-10 bg-gradient-to-b from-gray-50 via-white to-gray-50">
         <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
             <div class="grid max-w-md grid-cols-1 mx-auto lg:grid-cols-12 gap-x-6 gap-y-8 lg:max-w-none">
                 <div class="self-center lg:col-span-4">
@@ -69,7 +69,7 @@ function Hero() {
                 </div>
 
                 <div class="self-end lg:col-span-5">
-                    <img class="w-full mx-auto" src={pic} alt="" />
+                    <img class="w-18 h-15 mx-auto" src={pic} alt="" />
                 </div>
             </div>
         </div>

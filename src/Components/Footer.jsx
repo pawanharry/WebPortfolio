@@ -5,6 +5,7 @@ function Footer() {
   return (
     <>
    <footer class="flex flex-col space-y-10 justify-center m-10">
+    <hr/>
 
 <nav class="flex justify-center flex-wrap gap-6 text-gray-500 font-medium">
     <a class="hover:text-gray-900" href="#">About</a>
