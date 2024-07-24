@@ -8,7 +8,11 @@ function Aboutme() {
 
 
 <body class="font-poppins bg-black relative">
+<div className='bg-teal-500 text-white flex justify-center'>
+  <h3 className='text-center text-6xl p-5 italic'>ABOUT ME</h3>
+</div>
   <div id="container" class="p-20 w-auto flex px-24 justify-center relative">
+ 
     
       <div id="container" class="p-20 sm:p-16 md:p-20 lg:p-24 xl:p-20 w-auto flex flex-col md:flex-row px-4 sm:px-8 md:px-24 lg:px-24 xl:px-24 relative">
           <div class="mr-10">

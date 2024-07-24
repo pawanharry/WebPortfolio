@@ -4,6 +4,9 @@ function Contact() {
   return (
     <>
    <div class="container flex flex-col mx-auto bg-white">
+   <div className='bg-teal-500 text-white flex justify-center'>
+  <h3 className='text-center text-6xl p-5 italic'>CONTACT ME</h3>
+</div>
             <div class="w-full draggable">
                 <div class="container flex flex-col items-center gap-16 mx-auto my-32">
                     <div class="grid w-full grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3">
