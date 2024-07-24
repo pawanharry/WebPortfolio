@@ -6,6 +6,7 @@ import Aboutme from './Components/Aboutme'
 import Experience from './Components/Experience'
 import Skills from './Components/Skills'
 import Edication from './Components/Edication'
+import Contact from './Components/Contact'
 
 
 
@@ -23,6 +24,7 @@ const App = () => {
     <Experience/>
     <Skills/>
     <Edication/>
+    <Contact/>
   
     <Footer/>
 
