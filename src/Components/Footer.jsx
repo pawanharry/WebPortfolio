@@ -9,12 +9,12 @@ function Footer() {
     <hr/>
 
 <nav class="flex justify-center flex-wrap gap-6 text-gray-500 font-medium">
-    <a class="hover:text-gray-900" href="#">About</a>
-    <a class="hover:text-gray-900" href="#">Experience</a>
-    <a class="hover:text-gray-900" href="#">Skills</a>
-    <a class="hover:text-gray-900" href="#">Projects</a>
-    <a class="hover:text-gray-900" href="#">Education</a>
-    <a class="hover:text-gray-900" href="#">Contact</a>
+    <a class="hover:text-gray-900" href="#about">About</a>
+    <a class="hover:text-gray-900" href="#experience">Experience</a>
+    <a class="hover:text-gray-900" href="#skills">Skills</a>
+    <a class="hover:text-gray-900" href="#projects">Projects</a>
+    <a class="hover:text-gray-900" href="#education">Education</a>
+    <a class="hover:text-gray-900" href="#contact">Contact</a>
 </nav>
 
 <div class="flex justify-center space-x-5">
