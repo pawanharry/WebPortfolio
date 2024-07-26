@@ -7,6 +7,7 @@ import Experience from './Components/Experience'
 import Skills from './Components/Skills'
 import Edication from './Components/Edication'
 import Contact from './Components/Contact'
+import Projects from './Components/Projects'
 
 
 
@@ -22,6 +23,7 @@ const App = () => {
     <Hero/>
     <Aboutme/>
     <Experience/>
+    <Projects/>
     <Skills/>
     <Edication/>
     <Contact/>

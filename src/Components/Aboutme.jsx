@@ -2,12 +2,13 @@ import React from 'react'
 import pic from '../../src/assets/MEE.jpeg'
 import chart from '../../src/assets/chart.png'
 
+
 function Aboutme() {
   return (
     <>
 
 
-<body class="font-poppins bg-black relative">
+<body id='about'  class="font-poppins bg-black relative">
 <div className='bg-teal-500 text-white flex justify-center'>
   <h3 className='text-center text-6xl p-5 italic'>ABOUT ME</h3>
 </div>
@@ -35,18 +36,15 @@ function Aboutme() {
      
 
       <div id="social" class="flex flex-wrap justify-start items-center gap-4">
-        <a rel="noopener" target="_blank" href="https://github.com/iam-aydin" class="bg-gray-800 rounded-lg p-5 w-64 flex items-center gap-2 text-white">
+        <a rel="noopener" target="_blank" href="https://github.com/pawanharry" class="bg-gray-800 rounded-lg p-5 w-64 flex items-center gap-2 text-white">
             <img class="mr-2 hover:scale-105 transition duration-300 ease-in-out" src="https://ucarecdn.com/1f465c47-4849-4935-91f4-29135d8607af/github2.svg" width="20px" height="20px" alt="Github" />
             <span>Visit my Github</span>
         </a>
-        <a rel="noopener" target="_blank" href="https://www.linkedin.com/in/aydin-vesali-moghaddam-82a860275/" class="bg-gray-800 rounded-lg p-5 w-64 flex items-center gap-2 text-white">
+        <a rel="noopener" target="_blank" href="https://www.linkedin.com/in/pawandeep-kour/" class="bg-gray-800 rounded-lg p-5 w-64 flex items-center gap-2 text-white">
             <img class="mr-2 hover:scale-105 transition duration-300 ease-in-out" src="https://ucarecdn.com/95eebb9c-85cf-4d12-942f-3c40d7044dc6/linkedin.svg" width="20px" height="20px" alt="LinkedIn" />
             <span>Follow me on Linkedin</span>
         </a>
-        <a rel="noopener" target="_blank" href="https://twitter.com/ichbinaydin" class="bg-gray-800 rounded-lg p-5 w-64 flex items-center gap-2 text-white">
-            <img class="mr-2 hover:scale-105 transition duration-300 ease-in-out" src="https://ucarecdn.com/82d7ca0a-c380-44c4-ba24-658723e2ab07/" width="20px" height="20px" alt="Twitter" />
-            <span>Follow me on Twitter</span>
-        </a>
+       
     </div>
     </div>
          

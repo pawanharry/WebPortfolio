@@ -1,6 +1,7 @@
 import React from 'react'
 import logo from '../../src/assets/logooo.png'
 
+
 function Footer() {
   return (
     <>
@@ -17,21 +18,19 @@ function Footer() {
 </nav>
 
 <div class="flex justify-center space-x-5">
-    <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/fluent/30/000000/facebook-new.png" />
+    <a href="https://github.com/pawanharry" target="_blank" rel="noopener noreferrer">
+    <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/github.png" alt="github"/>
     </a>
-    <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/fluent/30/000000/linkedin-2.png" />
+    <a href="https://www.linkedin.com/in/pawandeep-kour/" target="_blank" rel="noopener noreferrer">
+        <img src={"https://img.icons8.com/fluent/30/000000/linkedin-2.png"} />
     </a>
-    <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/fluent/30/000000/instagram-new.png" />
+    <a href="https://dribbble.com/pawan260" target="_blank" rel="noopener noreferrer">
+    <img width="30" height="30" src="https://img.icons8.com/color/48/dribbble.png" alt="dribbble"/>
     </a>
-    <a href="https://messenger.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/fluent/30/000000/facebook-messenger--v2.png" />
+    <a href="https://www.behance.net/pawandeepkour260" target="_blank" rel="noopener noreferrer">
+    <img width="30" height="30" src="https://img.icons8.com/color/48/behance.png" alt="behance"/>
     </a>
-    <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/fluent/30/000000/twitter.png" />
-    </a>
+    
 </div>
 <p class="text-center text-gray-700 font-medium">&copy; 2024 Pawandeep kour All rights reservered.</p>
 </footer>

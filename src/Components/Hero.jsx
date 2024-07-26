@@ -5,7 +5,12 @@ import pic from '../../src/assets/heroo.png'
 function Hero() {
   return (
     <>
-    <div className='ml-65 pl-5 pb-8'>
+
+
+
+
+
+    <div id='hero' className='ml-65 pl-5 mt-10  pb-8'>
     <section class="pt-12 bt-10 pb-10 bg-gradient-to-b from-gray-50 via-white to-gray-50">
         <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
             <div class="grid max-w-md grid-cols-1 mx-auto lg:grid-cols-12 gap-x-6 gap-y-8 lg:max-w-none">
@@ -16,7 +21,7 @@ function Hero() {
                         <div class="absolute "></div>
 
                         <a
-                            href="#"
+                            href="#projects"
                             title=""
                             class="text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 sm:mr-2 lg:mr-0 dark:bg-purple-600 dark:hover:bg-purple-700 focus:outline-none dark:focus:ring-purple-800"
                             role="button"
