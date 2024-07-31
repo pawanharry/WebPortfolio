@@ -55,14 +55,14 @@ function Aboutme() {
             <div class="grid max-w-md grid-cols-1 mx-auto lg:grid-cols-12 pb-8 gap-x-6 gap-y-8 lg:max-w-none">
                 <div class="self-center lg:col-span-4">
                     <h1 class="text-3xl font-bold text-white sm:text-4xl xl:text-5xl">Part Coder</h1>
+                    
                     <ul className='pt-10'>
-                        <li class=" font-bold text-white">UI Design</li>
-                        <li class=" font-bold text-white">UX Design</li>
-                        <li class=" font-bold text-white">Interactive</li>
-                        <li class=" font-bold text-white">Wireframing</li>
-                        <li class=" font-bold text-white">Prototyping</li>
-                    </ul>
-                   
+                        <li  class=" font-bold text-white">Frontend Development</li>
+                        <li class=" font-bold text-white">HTML </li>
+                        <li class=" font-bold text-white">CSS</li>
+                        <li class=" font-bold text-white">Javascript</li>
+                        
+                    </ul> 
                        
                 </div>
                 <div class="self-end lg:col-span-5">
@@ -71,12 +71,13 @@ function Aboutme() {
 
                 <div class="self-center lg:col-span-3">
                     <h1 class="text-3xl font-bold text-white sm:text-4xl xl:text-5xl">Part Designer</h1>
+                  
                     <ul className='pt-10'>
-                        <li  class=" font-bold text-white">Frontend Development</li>
-                        <li class=" font-bold text-white">HTML </li>
-                        <li class=" font-bold text-white">CSS</li>
-                        <li class=" font-bold text-white">Javascript</li>
-                        
+                        <li class=" font-bold text-white">UI Design</li>
+                        <li class=" font-bold text-white">UX Design</li>
+                        <li class=" font-bold text-white">Interactive</li>
+                        <li class=" font-bold text-white">Wireframing</li>
+                        <li class=" font-bold text-white">Prototyping</li>
                     </ul>
                   
                 </div>
