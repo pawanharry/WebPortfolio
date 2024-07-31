@@ -19,7 +19,7 @@ import  figma from '../../src/assets/figma.png'
 function Skills() {
   return (
     <>
-    <div >
+    <div  id='skills'>
         <div className='flex flex-col  '>
         <div className='bg-teal-500 text-white flex justify-center'>
   <h3 className='text-center text-6xl p-5 italic'>SKILLS</h3>
@@ -32,11 +32,11 @@ function Skills() {
 
 
 
-<div class="m-10 p-20  bg-gradient-to-b from-gray-50 via-white to-gray-50 shadow-xl">
+<div class="m-10 p-20  bg-gradient-to-b from-gray-50 via-white to-gray-50 shadow-xl outline outline-offset-2 outline-pink-500">
     <div class="text-center mb-16">
     
         <h3 class="text-3xl sm:text-4xl leading-normal font-extrabold tracking-tight text-gray-600
-            text-indigo-600 pb-5">HTML/JAVASCRIPT
+            text-indigo-600 pb-5">HTML
           
         </h3>
         <hr/>
@@ -89,7 +89,7 @@ function Skills() {
 
 
 
-<div class="m-10 p-20  bg-gradient-to-b from-gray-50 via-white to-gray-50 shadow-xl">
+<div class="m-10 p-20  outline outline-offset-2 outline-pink-500 bg-gradient-to-b from-gray-50 via-white to-gray-50 shadow-xl">
     <div class="text-center mb-16">
     
         <h3 class="text-3xl sm:text-4xl leading-normal font-extrabold tracking-tight text-gray-600
@@ -146,7 +146,7 @@ function Skills() {
 
 
 
-<div class="m-10 p-20  bg-gradient-to-b from-gray-50 via-white to-gray-50 shadow-xl">
+<div class="m-10 p-20 outline outline-offset-2 outline-pink-500 bg-gradient-to-b from-gray-50 via-white to-gray-50 shadow-xl">
     <div class="text-center mb-16">
     
         <h3 class="text-3xl sm:text-4xl leading-normal font-extrabold tracking-tight text-gray-600
@@ -202,7 +202,7 @@ function Skills() {
 
 
 
-<div class="m-10 p-20  bg-gradient-to-b from-gray-50 via-white to-gray-50 shadow-xl">
+<div class="m-10 p-20  outline outline-offset-2 outline-pink-500 bg-gradient-to-b from-gray-50 via-white to-gray-50 shadow-xl">
     <div class="text-center mb-16">
     
         <h3 class="text-3xl sm:text-4xl leading-normal font-extrabold tracking-tight text-gray-600
