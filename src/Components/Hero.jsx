@@ -1,5 +1,6 @@
 import React from 'react'
 import logo from '../../src/assets/logooo.png'
+import hero from '../../src/assets/hero.png'
 
 function Hero() {
   return (
@@ -9,7 +10,7 @@ function Hero() {
   
 
     <div class="absolute inset-y-0 right-0">
-        <img class="object-cover w-full h-full max-w-4xl origin-left opacity-50 xl:opacity-100 lg:scale-110 lg:-translate-x-8" src="https://cdn.rareblocks.xyz/collection/bakerstreet/images/hero/5/background.png" alt="" />
+        <img class="object-cover w-full h-full max-w-4xl origin-left opacity-50 xl:opacity-100 lg:scale-110 lg:-translate-x-8" src={hero} alt="" />
     </div>
 
     <div class="relative">
