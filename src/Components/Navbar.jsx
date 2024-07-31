@@ -21,7 +21,7 @@ function Navbar() {
                 <span></span>
             </div>
 
-            <a href="https://drive.google.com/file/d/193z2uXC8i3G-IMkoaxniPcIc2Zx39oXb/view?usp=sharing"
+            <a href="https://drive.google.com/file/d/19JJSxQ_QPr6WqCRkbbivyvF276Nj2E0L/view?usp=drive_link"
                 class="text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 sm:mr-2 lg:mr-0 dark:bg-purple-600 dark:hover:bg-purple-700 focus:outline-none dark:focus:ring-purple-800">Download Resume</a>
             <button data-collapse-toggle="mobile-menu-2" type="button"
 				class="inline-flex items-center p-2 ml-1 text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
