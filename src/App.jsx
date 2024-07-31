@@ -5,6 +5,7 @@ import Footer from './Components/Footer'
 import Aboutme from './Components/Aboutme'
 import Experience from './Components/Experience'
 import Skills from './Components/Skills'
+import Edication from './Components/Edication'
 
 
 
@@ -21,6 +22,7 @@ const App = () => {
     <Aboutme/>
     <Experience/>
     <Skills/>
+    <Edication/>
   
     <Footer/>
 

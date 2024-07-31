@@ -47,7 +47,7 @@ function Experience() {
 
       <div class="mt-5 flex flex-col space-y-3 text-sm font-medium text-gray-500 sm:flex-row sm:items-center sm:space-y-0 sm:space-x-2">
         <div class="">Experience:<span class="ml-2 mr-3 rounded-full bg-green-100 px-2 py-0.5 text-green-900"> 2020-2022 </span></div>
-        <div class="">LLocation<span class="ml-2 mr-3 rounded-full bg-blue-100 px-2 py-0.5 text-blue-900">Delhi</span></div>
+        <div class="">Location<span class="ml-2 mr-3 rounded-full bg-blue-100 px-2 py-0.5 text-blue-900">Delhi</span></div>
       </div>
     </div>
   </div>
