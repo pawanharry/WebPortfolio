@@ -154,7 +154,7 @@ function Projects() {
               category="design"
               title="fragrance"
               button="View Details"
-              buttonHref="https://www.figma.com/proto/31oxjus1xbMPZQqVBmfUOh/Untitled?node-id=2-2&t=Zqhh6mkh68nFiyPA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1"
+              buttonHref="https://www.figma.com/proto/VarKj6XVqly6aQiiU4kPOD/Untitled?node-id=3-15&t=mFlGPkysFZFNA1Gx-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1"
               showCard={showCard}
             />
 
