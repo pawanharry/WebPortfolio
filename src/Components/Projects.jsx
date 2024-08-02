@@ -154,7 +154,7 @@ function Projects() {
               category="design"
               title="fragrance"
               button="View Details"
-              buttonHref="#"
+              buttonHref="https://www.figma.com/proto/31oxjus1xbMPZQqVBmfUOh/Untitled?node-id=2-2&t=Zqhh6mkh68nFiyPA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1"
               showCard={showCard}
             />
 
@@ -172,7 +172,7 @@ function Projects() {
               category="design"
               title="Podcast"
               button="View Details"
-              buttonHref="https://www.figma.com/proto/YIjT7HWlebX9kMCYl6VW9e/WEDDING-BUZZ?node-id=4-2&t=2ophtncK5KXSRI7Q-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2"
+              buttonHref="https://www.figma.com/proto/wL0mKTFGR2CbbtVP6IW0TN/Untitled?node-id=1-2&t=aEoH0HMs1bArhDk1-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1"
               showCard={showCard}
             />
 
