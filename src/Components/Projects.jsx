@@ -112,7 +112,7 @@ function Projects() {
               category="Frontend"
               title="BookHaven"
               button="View Details"
-              buttonHref="#"
+              buttonHref="https://pawanharry.github.io/BookStore/"
               showCard={showCard}
             />
             <PortfolioCard
@@ -120,7 +120,7 @@ function Projects() {
               category="Frontend"
               title="LuxeRide"
               button="View Details"
-              buttonHref="#"
+              buttonHref="https://pawanharry.github.io/CarRental/"
               showCard={showCard}
             />
             <PortfolioCard
@@ -128,7 +128,7 @@ function Projects() {
               category="Frontend"
               title="Portfolio"
               button="View Details"
-              buttonHref="#"
+              buttonHref="https://pawanharry.github.io/portfolio/"
               showCard={showCard}
             />
             <PortfolioCard
@@ -136,16 +136,16 @@ function Projects() {
               category="Frontend"
               title="Wedding Buzz"
               button="View Details"
-              buttonHref="#"
+              buttonHref="https://pawanharry.github.io/WeddingBuzz/"
               showCard={showCard}
             />
         
             <PortfolioCard
-              ImageHref={dental}
+              ImageHref={workoutgym}
               category="design"
-              title="Rp Dental care"
+              title="Workout and gym"
               button="View Details"
-              buttonHref="#"
+              buttonHref="https://www.figma.com/proto/k1zfcMOCpHRdyaHgzq7bjY/Untitled?node-id=34-251&t=R3a6Iz9czxqoT2MU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A532&show-proto-sidebar=1"
               showCard={showCard}
             />
 
@@ -163,7 +163,7 @@ function Projects() {
               category="design"
               title="Moneyvest"
               button="View Details"
-              buttonHref="#"
+              buttonHref="https://www.figma.com/proto/Ykt2Hx3880Uvc2QS0h9HE6/Untitled?node-id=2-2&t=G3zVJCLI6Yesq6pp-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2"
               showCard={showCard}
             />
 
@@ -172,7 +172,7 @@ function Projects() {
               category="design"
               title="Podcast"
               button="View Details"
-              buttonHref="#"
+              buttonHref="https://www.figma.com/proto/YIjT7HWlebX9kMCYl6VW9e/WEDDING-BUZZ?node-id=4-2&t=2ophtncK5KXSRI7Q-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2"
               showCard={showCard}
             />
 
@@ -181,7 +181,7 @@ function Projects() {
               category="design"
               title="WeddingBuzz"
               button="View Details"
-              buttonHref="#"
+              buttonHref="https://www.figma.com/proto/YIjT7HWlebX9kMCYl6VW9e/WEDDING-BUZZ?node-id=4-2&t=2ophtncK5KXSRI7Q-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2"
               showCard={showCard}
             />
 
