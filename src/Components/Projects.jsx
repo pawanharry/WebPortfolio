@@ -6,7 +6,7 @@ import port from '../../src/assets/portfolio.png'
 import wed from '../../src/assets/weddingBuzz.png'
 
 
-import dental from '../../src/assets/dental.png';
+import workoutgym from '../../src/assets/workoutgym.png';
 import fragrance from '../../src/assets/fragrance.png';
 import moneyVest from '../../src/assets/moneyVest.png';
 import music from '../../src/assets/music.png';
